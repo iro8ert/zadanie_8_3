@@ -1,0 +1,25 @@
+{
+  "name": "zadanie_8_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test:js",
+    "test:js": "globstar jshint js/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iro8ert/zadanie_8_3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iro8ert/zadanie_8_3/issues"
+  },
+  "homepage": "https://github.com/iro8ert/zadanie_8_3#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "globstar": "^1.0.0",
+    "jshint": "^2.9.5"
+  }
+}
